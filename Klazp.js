@@ -1,3 +1,4 @@
+
 /**
  * Framework7 1.4.2
  * Full Featured Mobile HTML Framework For Building iOS & Android Apps
@@ -12,6 +13,7 @@
  * 
  * Released on: February 27, 2016
  */
+/* This is an edit from the original file */
 (function () {
 
     'use strict';
